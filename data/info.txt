@@ -1,12 +1,12 @@
 GAME COUNTER
 
 Game Counter allows you to keep track of points during a game.
-Using it is simple: just swipe from the number representing the points of a player to the middle to transer them there or swipe away to transfer them to the player.
+Using it is simple: just tap on the minus sign next to the number representing the points of a player to tranfer points to the middle or tap on the plus sign to transfer them to the player.
 
 The following options are aviable when starting a new game:
 
  - Unit: All points will always be a multiple of this value, it also sets the number of decimal digits displayed.
- - Initial: How much points each player has at the start of the game.
+ - Initial: How many points each player has at the start of the game.
  - Players: The number of players.
  
  The values of these options are set by swiping right to increase and swiping left to decrease.
